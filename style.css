@@ -1,0 +1,36 @@
+.principal {
+  display: inline-block;
+  background-color: #f7f7fc;
+  padding: 30px;
+  padding-left: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px grey;
+  width: 300px;
+  height: auto;
+  margin: 150px auto;
+}
+
+body {
+  font-family: montserrat;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 25px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+.opciones {
+  border-radius: 255px;
+  background-color: white;
+  height: 21px;
+  width: 160px;
+  margin: 10px;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  display: flex;
+  text-align: center;
+}
